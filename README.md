@@ -27,24 +27,40 @@
 ---
 
 ## 📂 Projects
-🍕 **Pizza Order System**  
-  A web-based application for ordering pizzas online with features like menu selection, order management, and user details handling.
-  Built using HTML, CSS, JavaScript, PHP, MySQL
- 📦 Features: pizza selection, order placement, user authentication, admin dashboard, order management
- 🔐 Secure backend handling using PHP & database integration
 
- 🛒 **E-Commerce Website**  
-  A full-featured e-commerce site with product listing, cart functionality, and order management.
-  Built using HTML, CSS, JavaScript, PHP, MySQL
- 📦 Features: product listing, product details page, cart, wishlist, buy now option, user login/signup
- 🧩 Dynamic pages with interactive UI and smooth user experience
+### 🍕 Pizza Order System
+- 📝 A web-based application for ordering pizzas online
+- 🛠️ Built using **HTML, CSS, JavaScript, PHP, MySQL**
+- 📦 Features:
+  - Pizza selection & order placement
+  - User authentication
+  - Admin dashboard
+  - Order management
+- 🔐 Secure backend handling with PHP & database integration
 
-🍱 **Food Donating Management System**  
-  A system designed to connect donors with NGOs to reduce food wastage and help needy people.
-  Built using HTML, CSS, JavaScript, PHP, MySQL
- 📦 Features: donor registration, food listing, NGO management, request tracking, admin monitoring
- 🤝 Helps reduce food wastage by connecting donors with NGOs or needy people
- 📊 Organized data handling with real-time status updates
+---
+
+### 🛒 E-Commerce Website
+- 📝 A full-featured e-commerce website
+- 🛠️ Built using **HTML, CSS, JavaScript, PHP, MySQL**
+- 📦 Features:
+  - Product listing & product details page
+  - Cart, wishlist & buy now option
+  - User login & signup
+- 🧩 Dynamic pages with interactive UI and smooth user experience
+
+---
+
+### 🍱 Food Donating Management System
+- 📝 A system designed to connect donors with NGOs to reduce food wastage
+- 🛠️ Built using **HTML, CSS, JavaScript, PHP, MySQL**
+- 📦 Features:
+  - Donor registration & food listing
+  - NGO management & request tracking
+  - Admin monitoring
+- 🤝 Helps connect donors with NGOs or needy people
+- 📊 Organized data handling with real-time status updates
+
 
 
 ## 🛠️ Technologies & Tools
