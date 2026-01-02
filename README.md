@@ -83,9 +83,17 @@
 ---
 ## 🤝 Connect With Me
 
-> **Email:** priyankabehera8878@gmail.com  
-> **LinkedIn:** https://www.linkedin.com/in/priyanka-behera-a5030733a/  
-> **Portfolio:** https://priyanka8878.github.io/Portfolio/
+<a href="mailto:priyankabehera8878@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/priyanka-behera-a5030733a/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://priyanka8878.github.io/Portfolio/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubpages.svg" width="30"/>
+</a>
 
 
 ✨ *Always eager to learn, build, and grow as a developer!*
