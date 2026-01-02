@@ -81,23 +81,11 @@
 - Work on industry-level real-world projects
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka8878&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka8878&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka8878&layout=compact&theme=radical" />
-</p>
-
-
 ## 🤝 Connect With Me
-- 📧 Email: **priyankabehera8878@gmail.com**
-- 💼 LinkedIn: *https://www.linkedin.com/in/priyanka-behera-a5030733a/*
-- 🌐 Portfolio: * https://priyanka8878.github.io/Portfolio/*
+
+> **Email:** priyankabehera8878@gmail.com  
+> **LinkedIn:** https://www.linkedin.com/in/priyanka-behera-a5030733a/  
+> **Portfolio:** https://priyanka8878.github.io/Portfolio/
+
 
 ✨ *Always eager to learn, build, and grow as a developer!*
