@@ -18,10 +18,7 @@
 ## 🚀 About Me
 - 🎓 **MCA 2nd Year Student** at **GIFT Autonomous College**
 - 💻 **Aspiring Web Developer**
-- 🌱 Learning **Frontend & Backend Development**
-- 🍕 Built a **Pizza Order System**
--  🛒 **E-Commerce Website**
--  🍱 **Food Donating Management System**  
+- 🌱 Learning **Frontend & Backend Development**  
 - 🚀 Passionate about building **real-world web applications**
 
 ---
