@@ -84,16 +84,13 @@
 ## 🤝 Connect With Me
 
 <a href="mailto:priyankabehera8878@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="30"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/priyanka-behera-a5030733a/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://priyanka8878.github.io/Portfolio/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubpages.svg" width="30"/>
-</a>
-
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/priyanka-behera-a5030733a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://priyanka8878.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 
 ✨ *Always eager to learn, build, and grow as a developer!*
