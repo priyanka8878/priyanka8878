@@ -25,38 +25,44 @@
 
 ## 📂 Projects
 
-### 🍕 Pizza Order System
-- 📝 A web-based application for ordering pizzas online
-- 🛠️ Built using **HTML, CSS, JavaScript, PHP, MySQL**
-- 📦 Features:
-  - Pizza selection & order placement
-  - User authentication
-  - Admin dashboard
-  - Order management
-- 🔐 Secure backend handling with PHP & database integration
+---
+
+### 🍕 Pizza Order System  
+**Online Food Ordering Web Application**
+
+**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL  
+
+**Key Features**
+- Pizza selection & order placement  
+- User authentication system  
+- Admin dashboard for order management  
+- Secure backend with database integration  
 
 ---
 
-### 🛒 E-Commerce Website
-- 📝 A full-featured e-commerce website
-- 🛠️ Built using **HTML, CSS, JavaScript, PHP, MySQL**
-- 📦 Features:
-  - Product listing & product details page
-  - Cart, wishlist & buy now option
-  - User login & signup
-- 🧩 Dynamic pages with interactive UI and smooth user experience
+### 🛒 E-Commerce Website  
+**Complete Online Shopping Platform**
+
+**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL  
+
+**Key Features**
+- Product listing & detailed product pages  
+- Cart, wishlist & buy-now functionality  
+- User login & signup system  
+- Interactive and responsive UI  
 
 ---
 
-### 🍱 Food Donating Management System
-- 📝 A system designed to connect donors with NGOs to reduce food wastage
-- 🛠️ Built using **HTML, CSS, JavaScript, PHP, MySQL**
-- 📦 Features:
-  - Donor registration & food listing
-  - NGO management & request tracking
-  - Admin monitoring
-- 🤝 Helps connect donors with NGOs or needy people
-- 📊 Organized data handling with real-time status updates
+### 🍱 Food Donation Management System  
+**Platform to Reduce Food Wastage**
+
+**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL  
+
+**Key Features**
+- Donor registration & food posting  
+- NGO request & tracking system  
+- Admin monitoring panel  
+- Organized data handling with live status updates  
 
 
 
@@ -92,13 +98,13 @@
 
 ---
 ## 🤝 Connect With Me
-
+<p align="center">
 <a href="mailto:priyankabehera8878@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/priyanka-behera-a5030733a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+  </p>
 
 ✨ *Always eager to learn, build, and grow as a developer!*
