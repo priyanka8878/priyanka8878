@@ -13,7 +13,7 @@
   </a>
 </p>
 
----
+<br>
 
 ## 🚀 About Me
 - 🎓 **MCA 2nd Year Student** at **GIFT Autonomous College**
@@ -21,11 +21,11 @@
 - 🌱 Learning **Frontend & Backend Development**  
 - 🚀 Passionate about building **real-world web applications**
 
----
+<br>
 
 ## 📂 Projects
 
----
+<br>
 
 ### 🍕 Pizza Order System  
 **Online Food Ordering Web Application**
@@ -38,7 +38,7 @@
 - Admin dashboard for order management  
 - Secure backend with database integration  
 
----
+<br>
 
 ### 🛒 E-Commerce Website  
 **Complete Online Shopping Platform**
@@ -51,7 +51,7 @@
 - User login & signup system  
 - Interactive and responsive UI  
 
----
+<br>
 
 ### 🍱 Food Donation Management System  
 **Platform to Reduce Food Wastage**
@@ -64,7 +64,7 @@
 - Admin monitoring panel  
 - Organized data handling with live status updates  
 
-
+<br>
 
 ## 🛠️ Technologies & Tools
 <p align="center"><b>Languages</b></p>
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
 </p>
 
----
+<br>
 
 ## 🎯 Career Goals
 - Become a skilled **Full Stack Web Developer**
@@ -96,15 +96,16 @@
 - Continuously learn new technologies
 - Work on industry-level real-world projects
 
----
+<br>
+
 ## 🤝 Connect With Me
 <p align="center">
-<a href="mailto:priyankabehera8878@gmail.com">
+  <a href="mailto:priyankabehera8878@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/priyanka-behera-a5030733a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  </p>
+</p>
 
 ✨ *Always eager to learn, build, and grow as a developer!*
