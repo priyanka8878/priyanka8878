@@ -2,9 +2,10 @@
 <h3 align="center"> Aspiring Web Developer 🚀</h3>
 
 <p align="center">
-  <a href="mailto:priyankabehera8878@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=priyanka8878&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/priyanka-behera-a5030733a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -12,6 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
+
 
 <br>
 
